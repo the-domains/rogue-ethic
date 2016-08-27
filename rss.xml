@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[asdfasdfasdf]]></title>
-        <description><![CDATA[asdfasdfasdf]]></description>
+        <title><![CDATA[Rogue Ethic]]></title>
+        <description><![CDATA[Rogue Ethic]]></description>
         <link>https://thegrid.ai/rogue-ethic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 20:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 20:35:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rogue-ethic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DJ Shadow feat. Run The Jewels - Nobody Speak (Official Video)]]></title>
-            <description><![CDATA[<article><h1>DJ Shadow feat. Run The Jewels - Nobody Speak (Official Video)</h1><p>Buy "Nobody Speak" feat. Run The Jewels at https://DJShadow.lnk.to/TMWFNS DJ Shadow has unveiled the music video for the song "Nobody Speak" featuring Run The Jewels, a standout track from his latest album 'The Mountain Will Fall,' out now on Mass Appeal Records.</p></article>]]></description>
+            <description><![CDATA[<article><h1>DJ Shadow feat. Run The Jewels - Nobody Speak (Official Video)</h1><p>Buy "Nobody Speak" feat. Run The Jewels at https://DJShadow.lnk.to/TMWFNS DJ Shadow has unveiled the music video for the song "Nobody Speak" featuring Run The Jewels, a standout track from his latest album 'The Mountain Will Fall,' out now on Mass Appeal Records.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1fbe56acd99a6837e33e212687174546/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FNUC2EQvdzmY%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=NUC2EQvdzmY</link>
             <guid isPermaLink="false">6ffc86be-7ca4-4b51-8761-de43d2084e11</guid>
             <pubDate>Fri, 26 Aug 2016 20:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/677538e0-2c55-4ba6-924a-da03240065ab.png">]]></description>
-            <link>https://thegrid.ai/rogue-ethic/b30a7b1e-142e-4617-b860-656b59fa1dc4/index.html</link>
-            <guid isPermaLink="false">b30a7b1e-142e-4617-b860-656b59fa1dc4</guid>
-            <pubDate>Fri, 26 Aug 2016 20:29:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
