@@ -1,4 +1,3 @@
-layout_spectrum: 0.1737057559657842
 typography_spectrum: 0.7779892487451434
 color:
   brandStrength: 0.11046082549728453
@@ -6,9 +5,11 @@ color:
   saturation: 0.7221225567627698
   rhythmicContrast: 0.077303467085585
   brandColors:
-    - '#363642'
-    - '#EE535D'
-    - '#6A3E49'
-    - '#C34B57'
-    - '#84424D'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.1737057559657842
 name: Rogue Ethic
+title: asdfasdfasdf
